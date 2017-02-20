@@ -4,12 +4,13 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+I'm a pure math PhD transitioning in to the data science space. I'm currently enrolled in Metis's data science bootcamp in NYC, and will be graduating at the end of March. I'll be moving to Chicago and looking for a job there beginning May 1st.
 
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
+Here's a [link](http://homepages.math.uic.edu/~cantrell/) to my old math research web page which contains links to my papers and descriptions of my research.
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[email@domain.com](michaelaaroncantrell@gmail.com)
+
