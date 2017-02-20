@@ -12,5 +12,5 @@ Here's a [link](http://homepages.math.uic.edu/~cantrell/) to my old math researc
 
 ### Contact me
 
-[email@domain.com](michaelaaroncantrell@gmail.com)
+[michaelaaroncantrell@gmail.com](michaelaaroncantrell@gmail.com)
 
